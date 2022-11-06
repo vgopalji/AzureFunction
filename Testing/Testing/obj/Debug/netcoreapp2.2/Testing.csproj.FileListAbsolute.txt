@@ -1,0 +1,23 @@
+C:\Apurv\Apurv Programs\Testing\Testing\bin\Debug\netcoreapp2.2\Testing.deps.json
+C:\Apurv\Apurv Programs\Testing\Testing\bin\Debug\netcoreapp2.2\Testing.runtimeconfig.json
+C:\Apurv\Apurv Programs\Testing\Testing\bin\Debug\netcoreapp2.2\Testing.runtimeconfig.dev.json
+C:\Apurv\Apurv Programs\Testing\Testing\bin\Debug\netcoreapp2.2\Testing.dll
+C:\Apurv\Apurv Programs\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.csprojAssemblyReference.cache
+C:\Apurv\Apurv Programs\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.csproj.CoreCompileInputs.cache
+C:\Apurv\Apurv Programs\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.AssemblyInfoInputs.cache
+C:\Apurv\Apurv Programs\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.AssemblyInfo.cs
+C:\Apurv\Apurv Programs\Testing\Testing\bin\Debug\netcoreapp2.2\Testing.pdb
+C:\Apurv\Apurv Programs\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.dll
+C:\Apurv\Apurv Programs\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.pdb
+C:\KTCodeAzFunc\Testing\Testing\bin\Debug\netcoreapp2.2\Testing.deps.json
+C:\KTCodeAzFunc\Testing\Testing\bin\Debug\netcoreapp2.2\Testing.runtimeconfig.json
+C:\KTCodeAzFunc\Testing\Testing\bin\Debug\netcoreapp2.2\Testing.runtimeconfig.dev.json
+C:\KTCodeAzFunc\Testing\Testing\bin\Debug\netcoreapp2.2\Testing.dll
+C:\KTCodeAzFunc\Testing\Testing\bin\Debug\netcoreapp2.2\Testing.pdb
+C:\KTCodeAzFunc\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.csprojAssemblyReference.cache
+C:\KTCodeAzFunc\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.AssemblyInfoInputs.cache
+C:\KTCodeAzFunc\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.AssemblyInfo.cs
+C:\KTCodeAzFunc\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.csproj.CoreCompileInputs.cache
+C:\KTCodeAzFunc\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.dll
+C:\KTCodeAzFunc\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.pdb
+C:\KTCodeAzFunc\Testing\Testing\obj\Debug\netcoreapp2.2\Testing.genruntimeconfig.cache
